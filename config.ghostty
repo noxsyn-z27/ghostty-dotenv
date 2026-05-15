@@ -6,7 +6,7 @@ background = #000000
 foreground = #FFFFFF
 split-divider-color = #FFFFFF
 font-size = 9
-bell-features=no-attension,title
+bell-features=no-attention,title
 
 # ---------------------------------------- window
 # height, width
